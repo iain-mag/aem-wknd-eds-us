@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p150902-e1557405.adobeaemcloud.com/bin/franklin.delivery/iain_mag/aem-wknd-eds-us"
+    url: "https://publish-p150902-e1557405.adobeaemcloud.com/bin/franklin.delivery/iain_mag/aem-wknd-eds-us/main"
     type: "markup"
     suffix: ".html"
