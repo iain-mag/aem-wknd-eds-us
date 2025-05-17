@@ -1,6 +1,6 @@
 {
     "definitions": [{
-      "title": "Teaser",
+      "title": "Teaser!!!!",
       "id": "teaser",
       "plugins": {
         "xwalk": {
@@ -9,9 +9,9 @@
             "template": {
               "name": "Teaser",
               "model": "teaser",
-              "textContent_text": "<h2>Enter a title</h2><p>...and body text here!!!</p>",
+              "textContent_text": "<h2>Enter a title</h2><p>...and body text here!!!!!</p>",
               "textContent_cta": "/",
-              "textContent_ctaText": "Click me!"
+              "textContent_ctaText": "Click me!!!"
             }
           }
         }
@@ -37,7 +37,7 @@
                 },
                 {
                     "component": "richtext",
-                    "name": "textContent_text",
+                    "name": "textContent_text123",
                     "label": "Text",
                     "valueType": "string",
                     "required": true
