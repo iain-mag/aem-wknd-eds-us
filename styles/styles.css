@@ -12,9 +12,9 @@
 
 :root {
   /* colors */
-  --primary-color: rgb(255 234 3);
+ /*  --primary-color: rgb(255 234 3); */
   --secondary-color: rgb(32 32 32);
-  --background-color: white;
+  --background-color: red;
   --light-color: rgb(235 235 235);
   --dark-color: var(--secondary-color);
   --text-color: var(--secondary-color);
